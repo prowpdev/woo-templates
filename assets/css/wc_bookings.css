@@ -1,0 +1,9 @@
+.wc-bookings-date-picker .ui-datepicker .ui-datepicker-title{
+    background: #f06b02;
+}
+.wc-bookings-date-picker .ui-datepicker .ui-datepicker-prev, .wc-bookings-date-picker .ui-datepicker .ui-datepicker-next{
+    background: #666666;
+}
+.wc-bookings-date-picker .ui-datepicker td.bookable a{
+    background-color: #f06b02
+}
